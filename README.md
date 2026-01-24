@@ -25,6 +25,7 @@ Passionate about software development, backend, and building things that work re
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kaaraken&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaaraken&layout=compact&theme=radical)
+
 More about me → check my pinned repos below
 
-Made in Tbilisi, Georgia 🇬🇪
+Made in Tbilisi, Georgia.
