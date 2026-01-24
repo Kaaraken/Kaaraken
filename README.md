@@ -1,31 +1,24 @@
-### Hi, I'm Nikoloz Chakvetadze AKA Chakve/Kaaraken 👋
+### Hi, I'm Nikoloz Chakvetadze (Chakve / Kaaraken) 👋
 
-**Computer Science student** at [your university]  
-Passionate about software development, backend, and building things that work reliably.
+**Computer Science student** passionate about backend development, reliable software, and learning modern stacks.
 
-- 🔭 Currently refreshing C# / .NET skills and exploring more
-- 🌱 Learning: ASP.NET Core, databases, clean architecture
-- 🎯 2026 Goals: Land first dev internship, finish 3–5 solid projects
-- ⚡ Fun: Gaming, gym, late-night coding sessions
+- 🔭 Working on: C# / .NET projects to build strong foundations
+- 🌱 Currently learning: ASP.NET Core, databases, clean code principles
+- 🎯 2026 Goals: Secure first internship, complete 5+ meaningful projects, contribute to open source
+- ⚡ Interests: Gaming, fitness, late-night problem-solving
 
-### Notable Projects
-- **[Atm-simulator](https://github.com/chakveta/Chakveta-ATM-Simulator)**  
-  Console ATM with persistence, input validation, OOP structure (C#)
-- **[Coming Soon!]** 
-  
-- **[Coming Soon!]**   
- 
+### Pinned Projects
+- **[Chakveta-ATM-Simulator](https://github.com/Kaaraken/Chakveta-ATM-Simulator)**  
+  Console-based ATM with persistence (file save/load), input validation, OOP design — my first solid refresh project after a break.
+- [Next project — coming soon]
 
-### Languages & Tools I Use
+### Skills & Tools
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kaaraken&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kaaraken&show_icons=true&theme=dracula)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaaraken&layout=compact&theme=dracula)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaaraken&layout=compact&theme=radical)
-
-More about me → check my pinned repos below
-
-Made in Tbilisi, Georgia.
+Made in Tbilisi, Georgia 🇬🇪
