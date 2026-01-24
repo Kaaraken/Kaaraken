@@ -9,7 +9,7 @@ Passionate about software development, backend, and building things that work re
 - ⚡ Fun: Gaming, gym, late-night coding sessions
 
 ### Notable Projects
-- **[atm-simulator](https://github.com/chakveta/atm-simulator)**  
+- **[Atm-simulator](https://github.com/chakveta/Chakveta-ATM-Simulator)**  
   Console ATM with persistence, input validation, OOP structure (C#)
 - **[project-2-name]** (link)  
   Short description + tech stack
