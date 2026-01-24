@@ -21,7 +21,9 @@ Passionate about software development, backend, and building things that work re
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chakveta&show_icons=true&theme=radical)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chakveta&layout=compact&theme=radical)
 More about me → check my pinned repos below
 
 Made in Tbilisi, Georgia 🇬🇪
