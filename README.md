@@ -21,4 +21,4 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kaaraken&show_icons=true&theme=dracula)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaaraken&layout=compact&theme=dracula)
 
-Made in Tbilisi, Georgia 🇬🇪
+Made in Tbilisi, Georgia
