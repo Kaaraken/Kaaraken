@@ -87,6 +87,13 @@
 
 > 🏧 **Chakveta ATM Simulator** — Console-based ATM built in C# with file persistence (save/load), input validation, and clean OOP design. The comeback project. More incoming.
 
+<div align="center">
+
+**[📁 TSUStudentPortal](https://github.com/Kaaraken/TSUStudentPortal)** — TypeScript
+
+</div>
+
+> 🎓 **TSU Student Portal** — Rebuilt version of the official TSU system with a modern UI. Uses live credential-based access (no data stored), scrapes and structures academic data (schedule, grades), and delivers it through a clean, fast interface. Built with scalability and real users in mind.
 ---
 
 ## 🎯 2026 Goals
